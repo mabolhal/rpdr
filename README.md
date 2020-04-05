@@ -1,4 +1,4 @@
-# rpdr
+# Rupaul's Drag Race - Untucked!
 Simple plots based on Reddit comments for "Untucked!"
 
 # What is this project about
